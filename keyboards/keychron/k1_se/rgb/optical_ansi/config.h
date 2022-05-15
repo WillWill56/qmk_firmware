@@ -22,4 +22,4 @@
 #define DEVICE_VER      0x0001
 
 /* RGB LED Config */
-#define DRIVER_LED_TOTAL (84)
+#define DRIVER_LED_TOTAL (87)
