@@ -1,6 +1,4 @@
-/* Copyright 2020 Adam Honse <calcprogrammer1@gmail.com>
- * Copyright 2020 Dimitris Mantzouranis <d3xter93@gmail.com>
- * Copyright 2021 Harrison Chan (Xelus)
+/* Copyright 2022 Dimitris Mantzouranis <d3xter93@gmail.com>
  * Copyright 2022 Pablo Ramirez <jp.ramangulo@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
@@ -21,8 +19,8 @@
 
 #include "quantum.h"
 
-#if defined(KEYBOARD_keychron_k1_se_rgb)
-    #include "rgb.h"
-#elif defined(KEYBOARD_keychron_k1_se_white)
-    #include "white.h"
+#if defined(KEYBOARD_keychron_k1_rgb_se)
+    #include "se.h"
+#elif defined(KEYBOARD_keychron_k1_rgb_v4)
+    #include "v4.h"
 #endif

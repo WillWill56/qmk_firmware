@@ -21,8 +21,8 @@
 
 #include "quantum.h"
 
-#if defined(KEYBOARD_keychron_k1_v4)
-    #include "v4.h"
-#elif defined(KEYBOARD_keychron_k1_se)
-    #include "se.h"
+#if defined(KEYBOARD_keychron_k1_rgb)
+    #include "rgb.h"
+#elif defined(KEYBOARD_keychron_k1_white)
+    #include "white.h"
 #endif

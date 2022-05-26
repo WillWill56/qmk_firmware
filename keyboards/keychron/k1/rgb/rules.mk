@@ -22,7 +22,7 @@ RGB_MATRIX_ENABLE = yes
 RGB_MATRIX_DRIVER = SN32F24xB
 
 # project specific files
-SRC = ../../../../drivers/led/sn32/matrix_sn32f24xx.c
+SRC = ../../../drivers/led/sn32/matrix_sn32f24xx.c
 
-# Build ansi by default
-DEFAULT_FOLDER = keychron/k1/se/rgb/ansi
+# Build rgb se ansi by default
+DEFAULT_FOLDER = keychron/k1/rgb/se/ansi
