@@ -1,14 +1,9 @@
-# Keychron K1 SE
+# Keychron K1 SE RGB
 
 Keychron K1 SE RGB (Sonix SN32F248B)
 
-Layout by: [Stephen Peery](https://github.com/smp4488)  
-Layout by: [Alexander Frank](https://github.com/jedifindtrick)  
-ISO Layout by: [Gibbio](https://github.com/Gibbio)
-
-Based on Keychron K3.  
-Keychron K3 is based on Keychron K4 by: [Dimitris Mantzouranis](https://github.com/dexter93) and Keychron K6 by: [Alexander Frank](https://github.com/jedifindtrick)  
-Keychron K8 layouts used as reference.  
+Based on Keychron K3 by: [Dimitris Mantzouranis](https://github.com/dexter93)  
+Expanded layouts based on Keychron K8 by: [Alexander Frank](https://github.com/jedifindtrick)  
 Hardware Supported: SN32F248BF
 
 Make examples for this keyboard (after setting up your build environment):
