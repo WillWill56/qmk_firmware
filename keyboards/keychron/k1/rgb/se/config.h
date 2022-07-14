@@ -40,7 +40,7 @@
 #define DEBOUNCE 5
 
 /* LED Status indicators */
-#define LED_CAPS_LOCK_PIN B12
+// Differs between mechanical and optical switch PCBs. Refer to config files in subdirectories.
 
 /* RGB LED Config */
 #define LED_MATRIX_ROWS MATRIX_ROWS

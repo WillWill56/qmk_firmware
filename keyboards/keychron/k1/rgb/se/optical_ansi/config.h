@@ -21,5 +21,8 @@
 #define PRODUCT_ID      0xFE00
 #define DEVICE_VER      0x0001
 
+/* LED Status indicators */
+#define LED_CAPS_LOCK_PIN D4
+
 /* RGB LED Config */
 #define DRIVER_LED_TOTAL (87)
